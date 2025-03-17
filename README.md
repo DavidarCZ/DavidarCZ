@@ -1,4 +1,9 @@
-## Hi there 👋
+## Ahoy 🌱
+
+My name is Dave and I study Computer Science.
+I aim to be web developer and find new friends.
+
+I am currently focusing on my Bachelor Degree and Odin Project.
 
 <!--
 **DavidarCZ/DavidarCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
