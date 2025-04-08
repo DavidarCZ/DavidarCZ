@@ -5,7 +5,8 @@ I aim to be web developer and find new friends.
 
 I am currently focusing on my Bachelor Degree and Odin Project.
 
-![DavidarCZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidarCZ&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidarCZ&theme=great-gatsby&show_icons=true&hide_border=false&layout=pie&langs_count=50)
+
 
 ### Programming Languages and Frameworks
 ---
