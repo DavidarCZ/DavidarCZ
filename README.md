@@ -5,7 +5,7 @@ I aim to be web developer and find new friends.
 
 I am currently focusing on my Bachelor Degree and Odin Project.
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidarCZ&theme=great-gatsby&show_icons=true&hide_border=false&layout=donut&langs_count=50)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidarCZ&theme=great-gatsby&show_icons=true&hide_border=false&layout=donut&langs_count=49)
 
 
 
@@ -50,7 +50,9 @@ I am currently focusing on my Bachelor Degree and Odin Project.
 ### Technical skills
 ---
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" alt="GitHub logo""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" alt="GitHub Codespaces logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu logo"  />
   <img width="12" />
