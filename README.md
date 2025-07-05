@@ -6,11 +6,13 @@ I aim to be web developer and find new friends.
 I am currently focusing on my Bachelor Degree and Odin Project.
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidarCZ&theme=great-gatsby&show_icons=true&hide_border=false&layout=donut&langs_count=49)
-[![roadmap.sh](https://roadmap.sh/card/tall/68203d31648d25d9ca78d712?variant=dark&roadmaps=git-github%2Cfull-stack%2Cjavascript%2Cfrontend)](https://roadmap.sh)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=DavidarCZ)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
 
 
 ### Programming Languages and Frameworks
 ---
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
@@ -39,6 +41,7 @@ I am currently focusing on my Bachelor Degree and Odin Project.
 
 ### Databases
 ---
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo"  />
   <img width="12" />
@@ -49,6 +52,7 @@ I am currently focusing on my Bachelor Degree and Odin Project.
 
 ### Technical skills
 ---
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub logo"/>
   <img width="12" />
